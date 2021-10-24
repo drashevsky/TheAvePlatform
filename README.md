@@ -33,5 +33,7 @@ We hope to expand our services cover the whole Ave by marketing and talking to i
 ## More Links
 
 Our demo video: [Link](https://www.youtube.com/watch?v=ftMBo4VZpsQ)
+
 DevPost project page: [Link](https://devpost.com/software/theave)
+
 Archived version: [Link](https://archive.md/584yV)
