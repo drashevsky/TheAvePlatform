@@ -1,5 +1,7 @@
 # Built for Dubhacks 2021
 
+By Kevin Alfaro, Fatima Diallo, Karlee Wong, and Daniel Rashevsky
+
 ![Home page](Screenshots/Screenshot1.png)
 
 ## Inspiration
@@ -9,6 +11,10 @@ We were looking to create something that could strengthen and uplift the bond be
 ## What it does
 
 TheAve is a community-building and events platform that allows small businesses and groups on The Ave in Seattle to collaborate and host events, giveaways, and deals to reforge bonds after the pandemic.
+
+## What's in this repo
+
+This repository contains the HTML-ized version of the Webflow site we built, alongside the CMS collections, design document, and screenshots of the live site.
 
 ## How we built it
 
@@ -31,6 +37,8 @@ We learned just how fast-paced a hackathon is, even requiring an all-nighter. We
 We hope to expand our services cover the whole Ave by marketing and talking to individual business owners, and make TheAve a platform of choice for fostering community in Seattle.
 
 ## More Links
+
+Live site: [Link](https://theave-uw.webflow.io/)
 
 Our demo video: [Link](https://www.youtube.com/watch?v=ftMBo4VZpsQ)
 
