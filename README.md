@@ -1,5 +1,7 @@
 # Built for Dubhacks 2021
 
+![Home page](Screenshots/Screenshot1.png)
+
 ## Inspiration
 
 We were looking to create something that could strengthen and uplift the bond between UW students and the surrounding community. TheAve allows students to interact more with surrounding businesses and gives businesses a chance to gain the exposure they may have lost due to the pandemic.
