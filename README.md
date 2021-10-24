@@ -29,3 +29,9 @@ We learned just how fast-paced a hackathon is, even requiring an all-nighter. We
 ## What's next for TheAve
 
 We hope to expand our services cover the whole Ave by marketing and talking to individual business owners, and make TheAve a platform of choice for fostering community in Seattle.
+
+## More Links
+
+Our demo video: [Link](https://www.youtube.com/watch?v=ftMBo4VZpsQ)
+DevPost project page: [Link](https://devpost.com/software/theave)
+Archived version: [Link](https://archive.md/584yV)
