@@ -42,6 +42,8 @@ Live site: [Link](https://theave-uw.webflow.io/)
 
 Our demo video: [Link](https://www.youtube.com/watch?v=ftMBo4VZpsQ)
 
+Cloneable Webflow Project: [Link](https://webflow.com/website/TheAve-Platform)
+
 DevPost project page: [Link](https://devpost.com/software/theave)
 
 Archived version: [Link](https://archive.md/584yV)
