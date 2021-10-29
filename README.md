@@ -46,4 +46,4 @@ Cloneable Webflow Project: [Link](https://webflow.com/website/TheAve-Platform)
 
 DevPost project page: [Link](https://devpost.com/software/theave)
 
-Archived version: [Link](https://archive.md/584yV) [Archive.org](https://web.archive.org/web/20211025000256/http://theave-uw.webflow.io/)
+Archived version: [Link](https://archive.md/584yV) and [Archive.org](https://web.archive.org/web/20211025000256/http://theave-uw.webflow.io/)
